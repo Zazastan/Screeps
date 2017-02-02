@@ -18,9 +18,15 @@ Lastly the you can use screeps-profiler (https://github.com/gdborton/screeps-pro
 TODO:
 
   -role.defender: A defensive creep
+  
   -role.attacker: An attack type of creep
+  
   -spawn logic enchancement: To have some kind of memory if harvesting from other leachRooms is profitable or not.
+  
   -leachRoom repairing: automatic roadRepair to the harvesters
+  
   -Early levels are still quite unoptimized.
+  
   -Resource extraction and lab usage.
+  
   -Terminal usage.
